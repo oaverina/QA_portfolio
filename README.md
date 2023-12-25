@@ -1,9 +1,9 @@
 # QA_portfolio
 QA portfolio
 В портфолио собрана тестовая документация, созданная для сайта Stiletto.blog<br>
- Чеклисты
+
  <details>
-<summary></summary>
+<summary> Чеклисты</summary>
 | | | | | | |
 |-|-|-|-|-|-|
 | | |Статус пользователя| | | |
