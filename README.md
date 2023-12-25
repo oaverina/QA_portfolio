@@ -197,6 +197,6 @@ QA portfolio
 
 **Фактический результат**:</br> 
 Отображается надпись, что ничего не найдено и для поиска нужно ввести минимум 3 символа. В данному случае кавычки означают, что пользователю нужен поиск по полному совпадению, но вместе с этим поиск осуществляется если введены двойные кавычки справа или одинарные слева (и тд) </br>
-<img src="https://img001.prntscr.com/file/img001/5xsHPHMMQ_2B6I-nVMqOyw.png" width="200" height="200">
-![Скрин](https://img001.prntscr.com/file/img001/5xsHPHMMQ_2B6I-nVMqOyw.png)
+<img src="https://img001.prntscr.com/file/img001/5xsHPHMMQ_2B6I-nVMqOyw.png" width="500" height="400">
+
 </details>
