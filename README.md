@@ -8,7 +8,7 @@ QA portfolio
 
 В портфолио собрана тестовая документация, созданная для сайта Stiletto.blog<br>
 <details>
-<summary>Чеклист<a link="https://docs.google.com/spreadsheets/d/1PWwLIMRWVZUNY8ajY2ocGBJrIg84ZHZi9r8oLceZ09c/edit#gid=1875485214"> </summary>
+<summary>Чеклист[Чеклист](https://docs.google.com/spreadsheets/d/1PWwLIMRWVZUNY8ajY2ocGBJrIg84ZHZi9r8oLceZ09c/edit#gid=1875485214)> </summary>
 </details>
 
 <details>
