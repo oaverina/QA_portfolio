@@ -10,9 +10,9 @@ QA portfolio
 <details>
 <summary>Чеклист<a name="[Чеклисты](https://docs.google.com/spreadsheets/d/1PWwLIMRWVZUNY8ajY2ocGBJrIg84ZHZi9r8oLceZ09c/edit#gid=1875485214)"> </summary>
 </details>
-***
+
 <details>
-**Тест-кейсы**<br><a name="Тест-кейсы">
+<summary**Тест-кейсы**<br><a name="Тест-кейсы"></summary>
 <details>
  <summary> TC-001 Отображение элементов раздела "Блоги" </summary>
  
