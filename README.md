@@ -298,7 +298,7 @@ QA portfolio
 </details>
 <details>
   <summary>Баг-репорт<br><a name="Баг-репорт"></summary>
-  </details>
+  
 <details>
 <summary>BUG-01: Поиск не осуществляется если перед запросом стоит одна двойная кавычка<a name="BUG-01" /></summary>
   
@@ -371,4 +371,5 @@ QA portfolio
 **Фактический результат**:</br> 
 Есть посты, у которых не отображается картинка. В этом случае размер картинки от 220x220 и ниже. Также не помностью помещаются заголовки </br>
 <img src="https://img001.prntscr.com/file/img001/MB30lLSnQyCresM8ukO4Yg.png" width="400" height="400">
+</details>
 </details>
