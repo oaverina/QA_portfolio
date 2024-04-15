@@ -7,9 +7,9 @@ QA portfolio
  - Коллекция Postman
 
 В портфолио собрана тестовая документация, созданная для сайта Stiletto.blog<br>
-<details>
+
 <summary>[Чеклист](https://docs.google.com/spreadsheets/d/1PWwLIMRWVZUNY8ajY2ocGBJrIg84ZHZi9r8oLceZ09c/edit#gid=1875485214)</summary>
-</details>
+
 
 <details>
 <summary>Тест-кейсы<br><a name="Тест-кейсы"></summary>
