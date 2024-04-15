@@ -13,7 +13,8 @@ QA portfolio
 
 <details>
 <summary>Тест-кейсы<br><a name="Тест-кейсы"></summary>
-</details>
+
+<details>
  <summary> TC-001 Отображение элементов раздела "Блоги" </summary>
  
 **Предусловие**:
@@ -293,6 +294,7 @@ QA portfolio
 [19](#19) Пройдено </br>
 [20](#20) Пройдено </br>
 ***
+</details>
 </details>
 <details>
   <summary>Баг-репорт<br><a name="Баг-репорт"></summary>
