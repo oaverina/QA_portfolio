@@ -12,7 +12,7 @@ QA portfolio
 </details>
 
 <details>
-<summary>**Тест-кейсы**<br><a name="Тест-кейсы"></summary>
+<summary>Тест-кейсы<br><a name="Тест-кейсы"></summary>
 <details>
  <summary> TC-001 Отображение элементов раздела "Блоги" </summary>
  
@@ -294,8 +294,9 @@ QA portfolio
 [20](#20) Пройдено </br>
 ***
 </details>
-
+<details>
   <summary>**Баг-репорт**<br><a name="Баг-репорт"></summary>
+  </details>
 <details>
 <summary>BUG-01: Поиск не осуществляется если перед запросом стоит одна двойная кавычка<a name="BUG-01" /></summary>
   
