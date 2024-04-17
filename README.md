@@ -390,10 +390,14 @@ QA portfolio
 Должны быть установлены: newman, nodejs</br>
 Node.js: скачать установщик в репозиторий nvm-windows на github или с nodejs.org. Запустить файл .exe.</br>
 Newman: через командную строку :
-''' npm install -g newman'''
+```javascript
+npm install -g newman
+```
 Для запуска необходимо открыть командную строку, перейти в директорию с тестами.</br> 
 Запуск осуществляется командой
-'''newman run esklp_upd_wp_postman_collection.json -e esklp(prod).postman_environment.json -k '''
+```javascript
+newman run esklp_upd_wp_postman_collection.json -e esklp(prod).postman_environment.json -k
+```
   </details>
 <details>
   <summary>Обо мне<br><a name="Me"></summary>
