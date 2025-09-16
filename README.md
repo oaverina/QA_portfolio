@@ -12,7 +12,6 @@ QA portfolio
 
 
 <details>
- [Тест-кейсы]
 <summary>Тест-кейсы<br><a name="Тест-кейсы"></summary>
  
  **Предусловие для всех тест-кейсов**:
@@ -96,7 +95,7 @@ QA portfolio
 Таблица перезагружается.</br>
 Отобразился полный список записей. Фильтр по полю "МНН" сброшен.</br>
 </details>
-
+</details>
 
 <details>
   <summary>Коллекция Postman<br><a name="Коллекция_Postman"></summary>
